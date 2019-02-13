@@ -1,0 +1,22 @@
+{
+  "name": "endless.cat",
+  "version": "1.0.0",
+  "description": "endless catto",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack"
+  },
+  "author": "nick lacunha",
+  "license": "WTFPL",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "jquery": "^3.3.1",
+    "jscroll": "^2.4.1",
+    "server-static": "^2.0.5",
+    "webpack": "^4.29.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.3"
+  }
+}
