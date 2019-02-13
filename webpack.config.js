@@ -8,7 +8,7 @@ module.exports = {
 		jQuery: "jquery"
 	})
 	],
-	entry: './wp_start.js',
+	entry: './main.js',
 	output: {
 		path: path.resolve(__dirname, 'dist'),
 		filename: 'bundle.js'
